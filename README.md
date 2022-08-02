@@ -6,7 +6,7 @@ I'm a (mostly) self-taught developer who enjoys working with JavaScript, Python,
 
 I'm always learning new things - here are a few things I've used that I plan to stick with.
 
-- JavaScript/Node.js
+- TypeScript/JavaScript/Node.js
   - Express, Jest, Axios, Svelte
 - Python
   - Requests, Beautiful Soup, Pytest, Django
